@@ -1,0 +1,20 @@
+.mainCls {
+    align-items: center;
+}
+.squareMain {
+    margin-top: 50px !important;
+    height: 80vh;
+    width: 80vh;
+    /* border: 1px solid #101010; */
+}
+/* .row-style {
+    border: 1px solid #D3D3D3;
+} */
+.btn-style{
+    width: 60px !important;
+    min-width: none !important;
+    height: 60px !important;
+    border-radius: 0px !important;
+    border: 2px solid #fff !important;
+    /* background-color: aqua !important; */
+}
